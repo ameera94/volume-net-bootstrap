@@ -1,0 +1,37 @@
+.navbar {
+  background-color: #7db6df;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+  font-weight: 600px;
+}
+
+.navbar-light .navbar-toggler {
+  color: white;
+}
+
+.card-header{
+  color: #7db6df;
+  margin-top: -80px;
+  background-color: white;
+  opacity: 0.8;
+}
+
+.card p {
+  color: #7db6df;
+}
+
+.card ul {
+  color: #7db6df;
+}
+
+
+h4 {
+  color: #7db6df;
+}
+
+i {
+  border-radius: 50%;
+  background-color: #7db6df;
+}
